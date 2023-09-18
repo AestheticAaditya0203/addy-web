@@ -27,7 +27,7 @@ export default function Home() {
             App made in simple Html css and js based on that ...
         </section> */}
         <Head>
-				<title>Joel's Portfolio</title>
+				<title>Aaditya&apos;s Portfolio</title>
 				<meta name="description" content="Aaditya's Portfolio" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.jpeg" />

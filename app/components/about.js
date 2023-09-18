@@ -8,9 +8,9 @@ const Hero = () => {
         <div className="hero-container">
             <Image src="https://addy-web.s3.ap-south-1.amazonaws.com/profile.jpeg" className="profile-img" width={300} height={300} alt="Joe's personal headshot" />
             <div className="hero-text">
-                <h1>Hey, I'm Aaditya 👋</h1>
+                <h1>Hey, I&apos;m Aaditya 👋</h1>
                 <p>
-                    I'm a software developer based in Bengaluru, Karnataka. I specialize in building (and occasionally designing) exceptional websites, applications, and everything in between.
+                    I&apos;m a software developer based in Bengaluru, Karnataka. I specialize in building (and occasionally designing) exceptional websites, applications, and everything in between.
                 </p>
                 <div className="social-icons">
                     {/* <a
