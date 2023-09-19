@@ -3,7 +3,7 @@ export const projectData = [
 		id: 1,
 		title: 'YelpCamp',
 		description:
-			'Gallery based app which was a practice app based on concepts of HTML, CSS & ejs(node.js). About images upload, storing comments and displaying the reviews.',
+			'Gallery based app which was a practice app based on concepts of HTML, CSS & ejs(node.js).Initiated the implementation of the project in Pega App studio maintained the effective case management in that purpose. About images upload, storing comments and displaying the reviews.',
 		//gitHubLink: 'https://github.com/olawanlejoel/Todo-List-App',
 	},
 	{
