@@ -12,7 +12,7 @@ const About = () => {
                     <p>In my current experience, I have worked on a various projects, and also in working with a variety of development tools and frameworks, including React, React Native, Next.js and Pega. I am always eager to learn and explore new technologies, and I am constantly seeking out opportunities to improve my skills and knowledge.</p>
                 </div>
                 <div className="about-img">
-                    <Image src= "https://addy-web.s3.ap-south-1.amazonaws.com/profile_2.jpeg" className="profile-img" width={300} height={500} alt="Joe and animal relaxing and having fun" />
+                    <Image src= "https://addy-web.s3.ap-south-1.amazonaws.com/about_casual.jpeg" className="profile-img" width={300} height={500} alt="Joe and animal relaxing and having fun" />
                 </div>
             </div>
         </div>

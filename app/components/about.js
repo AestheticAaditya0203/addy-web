@@ -3,10 +3,10 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 const Hero = () => {
-    const dataimg = [{img: "https://addy-web.s3.ap-south-1.amazonaws.com/profile.png"}]
+    //const dataimg = [{img: "https://addy-web.s3.ap-south-1.amazonaws.com/profile.png"}]
     return (
         <div className="hero-container">
-            <Image src="https://addy-web.s3.ap-south-1.amazonaws.com/profile.jpeg" className="profile-img" width={300} height={300} alt="Joe's personal headshot" />
+            <Image src="https://addy-web.s3.ap-south-1.amazonaws.com/about_profile.jpeg" className="profile-img" width={300} height={300} alt="Joe's personal headshot" />
             <div className="hero-text">
                 <h1>Hey, I&apos;m Aaditya 👋</h1>
                 <p>
